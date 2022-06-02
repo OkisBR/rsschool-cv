@@ -30,10 +30,9 @@ function multiply(a, b) {
 
 ## Work Experience
 
-Create CV Markdown on GitHub Pages  
-https://okisbr.github.io/rsschool-cv/cv  
-Create project on GitHub Pages  
-https://okisbr.github.io/HTMLacademy/
+Create [CV Markdown](https://okisbr.github.io/rsschool-cv/cv) in RS School
+
+Create a [project](https://okisbr.github.io/HTMLacademy/) in HTML Academy
 
 ## Education
 
